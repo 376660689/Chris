@@ -1,4 +1,2 @@
-# Chris
 #coding:utf-8
-
-printf("This is test!")
+自用工具
