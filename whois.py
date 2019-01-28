@@ -35,4 +35,4 @@ def ip2addr(host):
     except Exception as msg:
         raise msg
 
-ip2addr('49.229.65.225')
+#ip2addr('49.229.65.225')
